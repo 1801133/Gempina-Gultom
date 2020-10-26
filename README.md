@@ -1,0 +1,2 @@
+# Gempina-Gultom
+Sistem informasi
